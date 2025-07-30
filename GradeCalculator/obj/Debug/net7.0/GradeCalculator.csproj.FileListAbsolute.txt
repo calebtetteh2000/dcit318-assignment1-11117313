@@ -1,0 +1,15 @@
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/bin/Debug/net7.0/GradeCalculator
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/bin/Debug/net7.0/GradeCalculator.deps.json
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/bin/Debug/net7.0/GradeCalculator.runtimeconfig.json
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/bin/Debug/net7.0/GradeCalculator.dll
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/bin/Debug/net7.0/GradeCalculator.pdb
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/obj/Debug/net7.0/GradeCalculator.csproj.AssemblyReference.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/obj/Debug/net7.0/GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/obj/Debug/net7.0/GradeCalculator.AssemblyInfoInputs.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/obj/Debug/net7.0/GradeCalculator.AssemblyInfo.cs
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/obj/Debug/net7.0/GradeCalculator.csproj.CoreCompileInputs.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/obj/Debug/net7.0/GradeCalculator.dll
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/obj/Debug/net7.0/refint/GradeCalculator.dll
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/obj/Debug/net7.0/GradeCalculator.pdb
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/obj/Debug/net7.0/GradeCalculator.genruntimeconfig.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/GradeCalculator/obj/Debug/net7.0/ref/GradeCalculator.dll
