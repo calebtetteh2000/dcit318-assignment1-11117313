@@ -1,0 +1,15 @@
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/bin/Debug/net7.0/TicketCalculator
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/bin/Debug/net7.0/TicketCalculator.deps.json
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/bin/Debug/net7.0/TicketCalculator.runtimeconfig.json
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/bin/Debug/net7.0/TicketCalculator.dll
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/bin/Debug/net7.0/TicketCalculator.pdb
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/obj/Debug/net7.0/TicketCalculator.csproj.AssemblyReference.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/obj/Debug/net7.0/TicketCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/obj/Debug/net7.0/TicketCalculator.AssemblyInfoInputs.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/obj/Debug/net7.0/TicketCalculator.AssemblyInfo.cs
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/obj/Debug/net7.0/TicketCalculator.csproj.CoreCompileInputs.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/obj/Debug/net7.0/TicketCalculator.dll
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/obj/Debug/net7.0/refint/TicketCalculator.dll
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/obj/Debug/net7.0/TicketCalculator.pdb
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/obj/Debug/net7.0/TicketCalculator.genruntimeconfig.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TicketCalculator/obj/Debug/net7.0/ref/TicketCalculator.dll
