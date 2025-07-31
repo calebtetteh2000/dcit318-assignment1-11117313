@@ -1,0 +1,15 @@
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/obj/Debug/net7.0/TriangleCalculator.csproj.AssemblyReference.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/obj/Debug/net7.0/TriangleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/obj/Debug/net7.0/TriangleCalculator.AssemblyInfoInputs.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/obj/Debug/net7.0/TriangleCalculator.AssemblyInfo.cs
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/obj/Debug/net7.0/TriangleCalculator.csproj.CoreCompileInputs.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/bin/Debug/net7.0/TriangleCalculator
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/bin/Debug/net7.0/TriangleCalculator.deps.json
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/bin/Debug/net7.0/TriangleCalculator.runtimeconfig.json
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/bin/Debug/net7.0/TriangleCalculator.dll
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/bin/Debug/net7.0/TriangleCalculator.pdb
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/obj/Debug/net7.0/TriangleCalculator.dll
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/obj/Debug/net7.0/refint/TriangleCalculator.dll
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/obj/Debug/net7.0/TriangleCalculator.pdb
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/obj/Debug/net7.0/TriangleCalculator.genruntimeconfig.cache
+/Users/calebtetteh/dcit318/dcit318-assignment1-11117313/TriangleCalculator/obj/Debug/net7.0/ref/TriangleCalculator.dll
